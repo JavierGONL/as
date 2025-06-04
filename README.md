@@ -1,6 +1,6 @@
 # as
 
-```python
+```mermaid
 classDiagram
     Set <|-- NumericSet
     Set <|-- StringSet
